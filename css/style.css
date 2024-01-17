@@ -15,8 +15,8 @@
  --light-color: #eee;
  --border: 0.1rem solid rgba(255, 255, 255, 0.785);
  --box-shadow: 0 0.5rem 1rem rgba(255, 255, 255, 0.785) ;
- --icons-background: #1c175c ;
-  --background-color: #130f40; 
+ --icons-background: #130f40 ;
+  --background-color: #0c0927; 
 }
 .theme{
   display: flex;
